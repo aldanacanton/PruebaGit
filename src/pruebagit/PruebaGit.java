@@ -21,6 +21,10 @@ public class PruebaGit {
         System.out.println(suma);
         
         System.out.println("No tenemos ningun cambio que hacer");
+        
+        String nombre;
+        nombre = "Aldana";
+        System.out.println(nombre);
     }
     
 }
