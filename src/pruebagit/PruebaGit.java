@@ -16,7 +16,7 @@ public class PruebaGit {
      */
     public static void main(String[] args) {
         System.out.println("Hola mi primer programa con Git");
-                int suma;
+        int suma;
         suma = 4 + 5;
         System.out.println(suma);
         
